@@ -1,2 +1,2 @@
 # Hello-World
-coding chat &amp; resources!
+MY FIRST REPOSITORY ON GITHUB    
